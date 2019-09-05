@@ -1,0 +1,17 @@
+com/example/nonedi/Bootstrap$B.class
+com/example/spring/javaconfig/Bootstrap$MyConfig.class
+com/example/spring/componentscan/Bootstrap$A.class
+com/example/spring/componentscan/Bootstrap$MyConfig.class
+com/example/nonedi/Bootstrap$A.class
+com/example/spring/componentscan/Bootstrap$B.class
+com/example/spring/javaconfig/Bootstrap.class
+com/example/di/setter/Bootstrap$B.class
+com/example/di/constructor/Bootstrap$B.class
+com/example/spring/componentscan/Bootstrap.class
+com/example/di/setter/Bootstrap.class
+com/example/di/setter/Bootstrap$A.class
+com/example/spring/javaconfig/Bootstrap$A.class
+com/example/di/constructor/Bootstrap$A.class
+com/example/spring/javaconfig/Bootstrap$B.class
+com/example/di/constructor/Bootstrap.class
+com/example/nonedi/Bootstrap.class
