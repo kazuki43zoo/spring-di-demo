@@ -1,5 +1,7 @@
 # spring-di-demo
 
+[![Java CI with Maven](https://github.com/kazuki43zoo/spring-di-demo/actions/workflows/maven.yml/badge.svg)](https://github.com/kazuki43zoo/spring-di-demo/actions/workflows/maven.yml)
+
 ## Without Injection
 
 See [`com.example.nonedi`](/src/main/java/com/example/nonedi/Bootstrap.java) package.
